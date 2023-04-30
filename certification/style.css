@@ -1,0 +1,60 @@
+html {
+    background-color: #07374a;
+}
+
+.temp1 {
+    background-color: whitesmoke;
+    border-radius: 2rem;
+    color: #07374a;
+}
+
+* {
+    margin: auto;
+    flex: auto;
+}
+
+button {
+    margin: auto;
+    display: block;
+}
+
+.btn {
+    background-color: transparent;
+    border: 2px solid whitesmoke;
+    border-radius: 4cm;
+    color: black;
+    font-size: medium;
+    font-family: "Montserrat";
+    font-weight: 400;
+    padding: 20px;
+    cursor: pointer;
+    text-transform: uppercase;
+
+}
+
+.btn {
+    background-color: transparent;
+    border: 2px solid teal;
+    border-radius: 4cm;
+    color: black;
+    font-size: medium;
+    font-weight: 400;
+    cursor: pointer;
+    text-transform: uppercase;
+
+}
+
+.btn:hover {
+    color: whitesmoke;
+    outline: 0;
+}
+
+.loc {
+    box-shadow: 9px 5px 5px whitesmoke;
+    transition: box-shadow 300ms ease-in-out, color 300ms ease-in-out;
+
+}
+
+.loc:hover {
+    box-shadow: 0 0 40px rgb(23, 35, 35);
+}
