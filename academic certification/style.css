@@ -58,3 +58,16 @@ button {
 .loc:hover {
     box-shadow: 0 0 40px rgb(23, 35, 35);
 }
+
+.footer {
+    background-color: #25b79f;
+}
+
+.f1 {
+    font-size: 30px;
+
+}
+
+.pen {
+    color: #07374a;
+}
